@@ -10,7 +10,7 @@ R scripts and data used in my D3-3 paper presented at NLP28/2022
 
 1. [cluster-originals.R](cluster-originals.R) [前処理と 36原文の DBSCAN クラスタリング]
 
-2. [analyze-mutations-by-cluster.R](analyze-mutations-by-cluster.R) [DBSCAN クラスター1 の分析]
+2. [analyze-mutations-by-cluster.R](analyze-mutations-by-clusters.R) [DBSCAN クラスター1 の分析]
 
 3. [cluster-originals-by-KL-divergence.R](cluster-originals-by-KL-divergence.R) [36原文の KL-divergence 分析]
 
