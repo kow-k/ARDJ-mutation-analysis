@@ -20,7 +20,7 @@ R scripts and data used in my D3-3 paper presented at NLP28/2022
 
 # data
 
-上の R scripts が処理する [応答データ](data-s2u-sd-filtered1.csv)
+上の R scripts が処理する[応答データ](data-s2u-sd-filtered1.csv)
 
 
 # paper
